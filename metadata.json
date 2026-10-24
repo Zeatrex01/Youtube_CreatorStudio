@@ -1,0 +1,6 @@
+{
+  "name": "Kurgu Analizcisi",
+  "description": "YouTube videolarının kurgu stillerini karşılaştırarak iyileştirme önerileri sunan AI aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
